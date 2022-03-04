@@ -1,6 +1,6 @@
 # Projeto_portfolio 
 
-Página de portfólio incial
+Página inicial de portfólio 
  
 ## Tecnicas e ferramentas utilizadas
  
