@@ -1,6 +1,6 @@
 # Projeto_portfolio 
 
-Página inicial de portfólio 
+Página inicial de portfólio em desenvolvimento
  
 ## Tecnicas e ferramentas utilizadas
  
