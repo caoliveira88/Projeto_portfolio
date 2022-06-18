@@ -13,4 +13,4 @@ Página inicial de portfólio em desenvolvimento
 
 ## Deploy
 
- [Projeto_portfolio](https://caoliveira88.github.io/Projeto_portfolio/)
+ [Projeto Portfolio :heavy_check_mark:](https://caoliveira88.github.io/Projeto_portfolio/)
